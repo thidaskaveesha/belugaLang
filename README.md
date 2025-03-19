@@ -95,7 +95,7 @@ The Beluga compiler provides meaningful syntax error messages to help you debug 
 We welcome contributions to improve the Beluga language! Feel free to fork the repository and submit pull requests.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU License. See the LICENSE file for details.
 
 ## Acknowledgments
 Special thanks to the programming community for inspiring this project.
