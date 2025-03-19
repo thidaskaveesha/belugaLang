@@ -20,7 +20,7 @@ Beluga is a simple, beginner-friendly programming language inspired by C and Pyt
 1. Clone this repository:
    ```bash
    git clone https://github.com/thidaskaveesha/belugaLang.git
-   cd beluga
+   cd belugaLang
    ```
 2. Run the Beluga compiler:
    ```bash
